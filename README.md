@@ -16,10 +16,10 @@ I recently graduated with a degree in Computer Science. I have developed and imp
    <a href="#" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html,css,bootstrap"/> </a>
 </p>
 <p align="left">
-   <a href="#" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cs,cpp,py"/> </a>
+   <a href="#" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cs"/> </a>
 </p>
 <p align="left"> 
-   <a href="#" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux,git,maven,firebase"/> </a>
+   <a href="#" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux,git,maven"/> </a>
 </p>
 
 ## Connect with me
